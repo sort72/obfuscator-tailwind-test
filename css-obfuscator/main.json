@@ -1,0 +1,13 @@
+{
+  ".m-4": ".msy-m-4",
+  ".h-full": ".msy-h-full",
+  ".w-fit": ".msy-w-fit",
+  ".rounded-lg": ".msy-rounded-lg",
+  ".bg-red-400": ".msy-bg-red-400",
+  ".p-4": ".msy-p-4",
+  ".text-xl": ".msy-text-xl",
+  ".font-semibold": ".msy-font-semibold",
+  ".text-blue-800": ".msy-text-blue-800",
+  ".shadow": ".msy-shadow",
+  ".md\\:bg-blue-400": ".msy-md\\:bg-blue-400"
+}
